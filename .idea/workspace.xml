@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="67fa2b2d-29de-45b6-926e-76b913ccaa72" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/SpecifierService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/SpecifierService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties " beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties " afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +49,6 @@
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.App" />
       <module name="quarkus-test" />
-      <option name="PROGRAM_PARAMETERS" value="-Dquarkus.grpc.server.port=9876" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.example.*" />
