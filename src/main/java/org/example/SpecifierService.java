@@ -16,5 +16,6 @@ public class SpecifierService extends SpecifierPluginGrpc.SpecifierPluginImplBas
                 .setVersion("v0.1.0")
                 .setAuthor("Meroxa, Inc.")
             .build());
+        responseObserver.onCompleted();
     }
 }

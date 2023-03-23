@@ -5,16 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="67fa2b2d-29de-45b6-926e-76b913ccaa72" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/protoeditor.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/SpecifierService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/proto/connector.proto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/proto/opencdc.proto" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ExampleResource.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/HelloService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/DestinationService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/proto/hello.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties " beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties " afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/SpecifierService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/SpecifierService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
